@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PunkHazard07
-- 👀 I’m interested in ...software Development
-- 🌱 I’m currently learning ...Software Development, java script
+- 👀 I’m interested in ...Software Development
+- 🌱 I have 6 months Experience in Software Development 
 - 💞️ I’m looking to collaborate on ...different Projects relating to software dev
 - 📫 How to reach me ...you can rach me via E-mail belloayoola20@gmail.com
 - 😄 Pronouns: ...
